@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1724673057 source:f:\codeblocks\comolexnumbers\main.cpp
+	<iostream>
+	"Complex.h"
+
+1724673156 f:\codeblocks\comolexnumbers\include\complex.h
+	<iostream>
+
+1724613994 source:f:\codeblocks\comolexnumbers\src\complex.cpp
+	<iostream>
+	"Complex.h"
+	<cmath>
+

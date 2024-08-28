@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1724778877 source:f:\codeblocks\dravingapp\main.cpp
+	<iostream>
+	"Picture.h"
+
+1724691507 f:\codeblocks\dravingapp\include\picture.h
+	"Circle.h"
+	"Line.h"
+	"Rect.h"
+
+1724779078 f:\codeblocks\dravingapp\include\circle.h
+	"Point.h"
+	<iostream>
+	"Shape.h"
+
+1724686277 f:\codeblocks\dravingapp\include\point.h
+
+1724778864 f:\codeblocks\dravingapp\include\line.h
+	"Point.h"
+	<iostream>
+	"Shape.h"
+
+1724778374 f:\codeblocks\dravingapp\include\rect.h
+	<iostream>
+	"Point.h"
+	"Shape.h"
+
+1724686401 source:f:\codeblocks\dravingapp\src\point.cpp
+	"Point.h"
+
+1724691507 source:f:\codeblocks\dravingapp\src\picture.cpp
+	"Picture.h"
+
+1724778976 f:\codeblocks\dravingapp\include\shape.h
+	<iostream>
+
+1724691507 source:f:\codeblocks\dravingapp\src\circle.cpp
+	"Circle.h"
+
+1724691507 source:f:\codeblocks\dravingapp\src\line.cpp
+	"Line.h"
+
+1724691507 source:f:\codeblocks\dravingapp\src\rect.cpp
+	"Rect.h"
+
+1724778026 source:f:\codeblocks\dravingapp\src\shape.cpp
+	"Shape.h"
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1724776662 source:f:\codeblocks\inhertance1\src\base.cpp
+	"Base.h"
+
+1724776560 f:\codeblocks\inhertance1\include\base.h
+
+1724777329 source:f:\codeblocks\inhertance1\main.cpp
+	<iostream>
+	"Derived.h"
+	"Base.h"
+
+1724777277 f:\codeblocks\inhertance1\include\derived.h
+	"Base.h"
+	<iostream>
+
+1724775142 source:f:\codeblocks\inhertance1\src\derived.cpp
+	"Derived.h"
+
+1724777404 source:f:\codeblocks\inhertance1\src\secondderived.cpp
+	"SecondDerived.h"
+
+1724777387 f:\codeblocks\inhertance1\include\secondderived.h
+	"Derived.h"
+

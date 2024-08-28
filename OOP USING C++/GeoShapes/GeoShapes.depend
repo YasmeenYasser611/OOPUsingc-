@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1724860830 source:f:\codeblocks\geoshapes\main.cpp
+	<iostream>
+	"Triangle.h"
+	"Square.h"
+	"Rect.h"
+	"Circle.h"
+
+1724860216 source:f:\codeblocks\geoshapes\src\geoshape.cpp
+	"Geoshape.h"
+
+1724860892 f:\codeblocks\geoshapes\include\geoshape.h
+	<iostream>
+
+1724844016 source:f:\codeblocks\geoshapes\src\circle.cpp
+	"Circle.h"
+
+1724859304 f:\codeblocks\geoshapes\include\circle.h
+	"Geoshape.h"
+	<iostream>
+
+1724843956 source:f:\codeblocks\geoshapes\src\triangle.cpp
+	"Triangle.h"
+
+1724844603 f:\codeblocks\geoshapes\include\triangle.h
+	"Geoshape.h"
+	<iostream>
+
+1724844029 source:f:\codeblocks\geoshapes\src\rect.cpp
+	"Rect.h"
+
+1724844603 f:\codeblocks\geoshapes\include\rect.h
+	"Geoshape.h"
+	<iostream>
+
+1724844258 source:f:\codeblocks\geoshapes\src\square.cpp
+	"Square.h"
+
+1724859527 f:\codeblocks\geoshapes\include\square.h
+	"Rect.h"
+	<iostream>
+
